@@ -13,7 +13,7 @@
 4. npm i express
 5. npm i mongoose
 6. npm i ejs
-7. nodemon index.js (to run the server)
+7. nodemon index.js (to run the server) 
 8. Go to browser and search (localhost:3000/products)
 
 
